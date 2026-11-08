@@ -1,6 +1,6 @@
 [project]
 name = "mini-circular-buffer"
-version = "0.1.0"
+version = "0.1.1"
 description = "Circular buffer with a set size that discards the oldest data when capacity is reached"
 requires-python = ">=3.10"
 dependencies = []
